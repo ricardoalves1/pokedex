@@ -3,8 +3,8 @@ import api from 'services/api'
 import { useEffect, useState } from 'react'
 
 import pokemonType from 'utils/pokemonTypeIcons'
-import Stats from 'components/stats'
-import Modal from 'components/modal'
+import Stats from 'components/Stats'
+import Modal from 'components/Modal'
 
 import { Wrapper } from './style'
 

@@ -2,7 +2,7 @@ import Image from 'next/image'
 import { Icon } from '@material-ui/core'
 
 import pokemonType from 'utils/pokemonTypeIcons'
-import Stats from 'components/stats'
+import Stats from 'components/Stats'
 
 import { Wrapper } from './style'
 
